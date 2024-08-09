@@ -1,11 +1,16 @@
-Projeto Loja TMS
-Projeto Loja TMS é um trabalho em grupo realizada no SENAC-PR com o intuito de aprender a programar,
-Loja TMS é um projeto de loja de roupas masculinas, femininas e infantis.
-
-🧑‍💻 Linguagens usadas no Projeto
-HTML 5 - CSS - BOOTSTRAP 5
-
-👥 Contribuidores
-Mateus Vinicius - @Matteu8
-
-Arthur Schimanski - @Brzinnxd
+<div>
+  <h1>Cadastro de Lanches</h1>
+  <p>Esse Cadastro de Lanches é um trabalho em grupo realizada no SENAC-PR com o intuito de aprender a programar,<br>
+  Esse é um projeto de cadastro de lanches, bebidas e clientes  
+  </p>
+  <h3>🧑‍💻 Linguagens usadas no Projeto</h3>
+  <hr>
+  <p>HTML 5 - PHP - BOOTSTRAP 5</p>
+  <hr>
+  <h3>👥 Contribuidores</h3>
+  <p>Arthur Schimanski - @Brzinnxd</p>
+  <p>César Augusto - @kenjaku02 </p>
+  <p>Gabriel Verenka - @GabrielVerenka</p>
+  <hr>
+  
+</div>
